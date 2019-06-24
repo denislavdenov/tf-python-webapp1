@@ -24,3 +24,5 @@ variable "webappip" {
 variable "dbip" {
   default = "172.31.16.20"
 }
+
+variable "allocid" {}
